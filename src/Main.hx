@@ -5,7 +5,9 @@ class Main {
 		// no double datatype in haxe
 
 		var task1 = new Task1();
+		var task2 = new Task2();
 
-		task1.Execute();
+		//task1.Execute();
+		task2.Execute();
 	}
 }
