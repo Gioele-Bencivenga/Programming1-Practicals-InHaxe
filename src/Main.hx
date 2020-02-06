@@ -6,8 +6,10 @@ class Main {
 
 		var task1 = new Task1();
 		var task2 = new Task2();
+		var task3 = new Task3();
 
 		//task1.Execute();
-		task2.Execute();
+		//task2.Execute();
+		task3.Execute();
 	}
 }
