@@ -1,9 +1,9 @@
-class Task4{
+class Task4 extends Task{
     var floatValue:Float = 25.6;
     var floatValue2:Float = 53.78;
 
     public function new() {
-        trace("Task 4 instance created");
+        super();
     }
 
     public function Execute() {

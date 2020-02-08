@@ -7,6 +7,8 @@ class Main {
 		var task1 = new Task1();
 		var task2 = new Task2();
 		var task3 = new Task3();
+		var task4 = new Task3();
+		var task5 = new Task5();
 
 		//task1.Execute();
 		//task2.Execute();
