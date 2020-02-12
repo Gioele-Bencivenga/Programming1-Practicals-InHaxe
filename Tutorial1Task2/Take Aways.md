@@ -13,7 +13,7 @@ sayHello();
 
 // Let's call it again with some parameter
 sayHello("John");
-from https://code.haxe.org/category/beginner/declare-functions.html
+from <https://code.haxe.org/category/beginner/declare-functions.html>
 
 ## Random Integers
 
