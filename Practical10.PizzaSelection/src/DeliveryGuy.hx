@@ -1,10 +1,10 @@
 class DeliveryGuy {
 	// charge based on distance
-	var charge:Float;
+	public var charge:Float;
 	// item price + delivery charge
 	var deliveryPrice:Float;
 	// distance used to calculate charge
-	var miles:Int;
+	public var miles:Int;
 
 	public var userChoice:Int;
 
