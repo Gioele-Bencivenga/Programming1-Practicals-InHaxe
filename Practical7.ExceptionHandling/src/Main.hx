@@ -1,5 +1,6 @@
 class Main {
 	static function main() {
-		trace("Hello, world!");
+		var task1 = new Task1();
+		task1.Execute();
 	}
 }
