@@ -2,7 +2,7 @@ class Main {
 	static function main() {
 
 		// we initialize the array with 15 0s
-		var throwsOutcome = [for (i in 0...15) 0];
+		var throwsOutcome:Array<Int> = [for (i in 0...15) 0];
 	
 		var numberOfThrows:Int = 100000;
 
