@@ -15,6 +15,17 @@ class Main {
 		#elseif(task == 5)
 		var task5 = new Task5();
 		task5.Execute();
+		#elseif(task == 0)
+		var task1 = new Task1();
+		var task2 = new Task2();
+		var task3 = new Task3();
+		var task4 = new Task4();
+		var task5 = new Task5();
+		task1.Execute();
+		task2.Execute();
+		task3.Execute();
+		task4.Execute();
+		task5.Execute();
 		#end
 	}
 }
