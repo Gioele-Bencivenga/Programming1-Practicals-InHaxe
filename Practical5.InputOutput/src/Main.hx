@@ -4,6 +4,7 @@ class Main {
 	static function main() {
 		var isInputOk:Bool = false;
 		var tempYear:String = null;
+
 		var person = new Person();
 
 		trace("Enter your first name");

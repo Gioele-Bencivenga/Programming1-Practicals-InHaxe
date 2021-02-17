@@ -1,8 +1,8 @@
 class Person {
-	public var firstName:String = null;
-	public var surname:String = null;
-	public var birthYear:Int = null;
-	public var age:Int = null;
+	public var firstName:String;
+	public var surname:String;
+	public var birthYear:Int;
+	public var age:Int;
 	
 	private var currentYear:Int = Date.now().getFullYear();
 

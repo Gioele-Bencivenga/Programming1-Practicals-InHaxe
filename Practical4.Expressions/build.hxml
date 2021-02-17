@@ -6,9 +6,8 @@
 # https://haxe.org/manual/cr-static-analyzer.html
 -D analyzer-optimize
 
-# compiler flag used to instruct the program about what task should be compiled
-# values 0 to 5 accepted, with 0 meaning "run all tasks"
--D task=4
+# compiler flag used to instruct the program about what task should be compiled. values 1 to 5 accepted
+-D task=2
 
 --each
 

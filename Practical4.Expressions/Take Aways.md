@@ -3,6 +3,9 @@
 There are no byte, short or double datatypes in haxe.
 
 The constructor of a function is:
+
+``` Haxe
 public function new() {
     constructor logic
 }
+```
